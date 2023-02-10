@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "name": "projects",
+  "version": "1.0.0",
+  "main": "file.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "build-css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
